@@ -1,0 +1,28 @@
+h3 {
+    color: aqua;
+    
+}
+
+
+.header
+{
+    background-color: brown;
+    display: flex;
+
+    justify-content: flex-start;
+}
+
+.center
+{
+    background-color: cornflowerblue;
+    display: flex;
+    justify-content: center;
+     
+}
+
+.item
+{
+    border: solid;
+    text-indent: 3mm;
+  
+}
